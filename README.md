@@ -15,16 +15,6 @@ Making simple uses of Form data select box for you
 # Uses
 You just need a simple textarea with "data_rich_textarea" attribute
 
-
-<div class="container">
-    <h1>Example 1</h1>
-    <hr/>
-    <textarea name="objective-summary" data_rich_textarea="true"></textarea>
-    <br/><br/><br/><br/><br/>
-    <h2>Example 2</h2>
-    <hr/>
-    <textarea name="objective-summary" data_rich_textarea="true"></textarea>
-</div>
   <!-- Include Rich Text Editor CSS File -->
   <link rel="stylesheet" href="js-multi-data-selector-with-autosuggestdatalist.css" type="text/css">
 
