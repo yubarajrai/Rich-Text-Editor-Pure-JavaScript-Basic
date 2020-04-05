@@ -4,7 +4,7 @@ Version: 1.0.0
 
 Author: Yubaraj Rai
 
-#Features
+# Features
 - Pure JavaScript
 - Readable Script
 - No jQuery Required
@@ -12,7 +12,7 @@ Author: Yubaraj Rai
 
 Making simple uses of Form data select box for you
 
-#Uses
+# Uses
 You just need a simple textarea with "data_rich_textarea" attribute
 
   <!-- Include Rich Text Editor CSS File -->
@@ -26,5 +26,5 @@ You just need a simple textarea with "data_rich_textarea" attribute
 
 Enjoy :)
 
-#View Example
+# View Example
 https://codepen.io/yubaraj/pen/jOPjBxx
